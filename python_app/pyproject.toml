@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "robotic-arm-controller"
+version = "0.1.0"
+description = "Python GUI application to control ESP32 robotic arm via serial communication"
+authors = ["Your Name <your.email@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+pyserial = "^3.5"
+
+[tool.poetry.group.dev.dependencies]
+# Add development dependencies here if needed
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+robotic-arm = "robotic_arm_controller:main"
