@@ -15,8 +15,8 @@ Serial Command Format:
 - Instant movement: "I:base,shoulder,elbow,gripper"
 - Smooth movement:  "S:base,shoulder,elbow,gripper"
 
-Author: Your Name
-Date: 2024
+Author: Vinicius Alves - Projeto Spark
+Date: 2025
 """
 
 import tkinter as tk
