@@ -1,0 +1,31 @@
+# ESP-IDF build artifacts
+/build/
+/sdkconfig
+/sdkconfig.*.backup
+
+# ESP-IDF generated files
+CMakeFiles/
+CMakeCache.txt
+build/
+idf.py.cache
+project_description.h
+compile_commands.json
+
+# Python app artifacts
+python_app/.venv/
+python_app/__pycache__/
+python_app/*.pyc
+python_app/.pytest_cache/
+python_app/poetry.lock    # if you prefer regenerating locally
+
+# General temporary files
+*.log
+*.tmp
+*.elf
+*.bin
+*.map
+*.obj
+*.o
+
+.vscode
+.devcontainer
