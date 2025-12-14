@@ -2,7 +2,7 @@
 
 [![ESP32](https://img.shields.io/badge/ESP32-Compatible-green.svg)](https://www.espressif.com/en/products/socs/esp32)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![YouTube](https://img.shields.io/badge/YouTube-Projeto_Spark-red.svg)](https://www.youtube.com/channel/YOUR_CHANNEL)
+[![YouTube](https://img.shields.io/badge/YouTube-Projeto_Spark-red.svg)](https://www.youtube.com/@projetospark3d451)
 
 ## 📚 Sobre o Projeto
 
